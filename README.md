@@ -149,8 +149,8 @@ except Networkerror,e:
 # Penutup
 Akhirnya, sudah sampailah kita dipenghujung repository ini. Itulah hasil dari latihan Exception yang telah saya kerjakan. Seperti biasa, jika ada kesalahan kata dalam pengetikan, Saya memohon maaf yang sebesar besarnya. Sekian dari repository ini saya buat. Saya ucapkan, Terimakasih...<br/>
 ``` 
-Nama    : Rhendy Diki Nugraha
-NIM     : 312210150
+Nama    : Danang Nurcahyo 
+NIM     : 312210004
 Kelas   : TI.22.A1
 Dosen   : Agung Nugroho, S.kom, M.kom
 ```
